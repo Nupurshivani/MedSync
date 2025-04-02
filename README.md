@@ -77,7 +77,7 @@
 ### 🧩 Setup Steps
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/btwshivam/MedSync.git
+git clone https://github.com/Nupurshivani/MedSync.git
 cd medsync
 ```
 
@@ -150,11 +150,4 @@ The frontend application should be running at `http://localhost:3000`
    - Check if ports 3001 and 3000 are available
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## 📜 License
-### This project is licensed under the [MIT License](LICENSE).
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-### ❤️ If you find this project helpful, please give us a ⭐ and share it with others!
 
